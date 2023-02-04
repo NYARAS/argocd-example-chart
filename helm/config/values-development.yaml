@@ -1,0 +1,7 @@
+---
+container:
+  replicas: 4
+
+ingress:
+  lbGroup: my-app-eks
+  host: argocd-sample.calvineotieno.com
