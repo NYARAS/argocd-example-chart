@@ -1,7 +1,7 @@
 ---
 container:
   image: "nginxdemos/hello"
-  tag: 42dc2544
+  tag: 3d41701f
   port: 80
   replicas: 1
 
