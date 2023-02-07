@@ -7,7 +7,7 @@ container:
 
 ingress:
   lbGroup: sample-app
-  host: argocd-sample.calvineotieno.com
+  host: argocd-manual.calvineotieno.com
   path: /
   serviceName: sample-app
   servicePort: 80
