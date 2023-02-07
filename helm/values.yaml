@@ -7,7 +7,7 @@ container:
 
 ingress:
   lbGroup: sample-app
-  host: minikube.local
+  host: argocd-sample.calvineotieno.com
   path: /
   serviceName: sample-app
   servicePort: 80
