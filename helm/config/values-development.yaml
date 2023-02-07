@@ -4,4 +4,4 @@ container:
 
 ingress:
   lbGroup: my-app-eks
-  host: argocd-sample.calvineotieno.com
+  host: argocd-manual.calvineotieno.com
