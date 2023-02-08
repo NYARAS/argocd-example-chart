@@ -3,7 +3,7 @@ container:
   image: "167259143853.dkr.ecr.eu-west-1.amazonaws.com/argocd-nginx-webserver"
   tag: 9a316105
   port: 80
-  replicas: 1
+  replicas: 2
 
 ingress:
   lbGroup: sample-app
